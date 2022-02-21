@@ -1,6 +1,8 @@
 # calculator
 
-A new Flutter project.
+A Simple calculator made with **Flutter** framework.
+
+The design is from the beautiful design by [Poala](https://dribbble.com/shots/8773693-DailyUI-Challenge-004-Calculator) on [Dribbble](https://dribbble.com)
 
 ## Getting Started
 
